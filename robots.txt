@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saugeenshoresplumbing.ca/sitemap-index.xml
