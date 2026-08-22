@@ -1,2 +1,25 @@
 # Saugeen Shores Plumbing
-HVAC services in Ontario.
+
+> Saugeen Shores Plumbing is a local HVAC company serving Saugeen Shores, Bruce, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (548) 290-8004  |  Email: contact@saugeenshoresplumbing.ca  |  Website: https://saugeenshoresplumbing.ca
+
+## Key pages
+
+- [Home](https://saugeenshoresplumbing.ca/): Saugeen Shores Plumbing homepage with service overview and FAQ
+- [About](https://saugeenshoresplumbing.ca/about/): About the company and service area
+- [Contact](https://saugeenshoresplumbing.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Water Heaters](https://saugeenshoresplumbing.ca/services/water-heaters/): Water Heaters in Saugeen Shores, Ontario
+- [Drain Cleaning](https://saugeenshoresplumbing.ca/services/drain-cleaning/): Drain Cleaning in Saugeen Shores, Ontario
+- [Repiping](https://saugeenshoresplumbing.ca/services/repiping/): Repiping in Saugeen Shores, Ontario
+- [Fixtures & Toilets](https://saugeenshoresplumbing.ca/services/fixtures-toilets/): Fixtures & Toilets in Saugeen Shores, Ontario
+- [Leak Detection & Repair](https://saugeenshoresplumbing.ca/services/leak-detection/): Leak Detection & Repair in Saugeen Shores, Ontario
+- [Sump Pumps & Backwater](https://saugeenshoresplumbing.ca/services/sump-pumps/): Sump Pumps & Backwater in Saugeen Shores, Ontario
+- [Water Softeners & Filtration](https://saugeenshoresplumbing.ca/services/water-softeners/): Water Softeners & Filtration in Saugeen Shores, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Saugeen Shores are answered on the homepage.
